@@ -4,7 +4,7 @@ Hi 👋 My name is Manas Rai
 Programming in Java and C
 -------------------------
 
-I've been learning Java and done some basics in C in past few months, I too love Competitive Programming on Codechef and Codeforces. Exploring myself!!!
+I've been learning Java and done some basics in C in past few months, I too love Competitive Programming on Codechef and Codeforces.Exploring myself!!!
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [manasrai1234567@gmail.com](mailto:manasrai1234567@gmail.com)
