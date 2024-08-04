@@ -71,12 +71,21 @@
 </table>
 
 
-<a href="https://leetcode.com/manas_47/" target="_blank">
-  <img src="https://leetcard.jacoblin.cool/manas_47?theme=dark&font=Mukta%20Mahee&ext=contest" alt="LeetCode Stats" />
-</a>
-<a href="https://www.codechef.com/users/manas_rai" target="_blank">
-  <img src="https://codechef-readme-stats.onrender.com/manas_rai?v=1" alt="CodeChef Stats" />
-</a>
+<table>
+  <tr>
+    <td>
+      <a href="https://leetcode.com/manas_47/" target="_blank">
+        <img src="https://leetcard.jacoblin.cool/manas_47?theme=dark&font=Mukta%20Mahee&ext=contest" alt="LeetCode Stats" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.codechef.com/users/manas_rai" target="_blank">
+        <img src="https://codechef-readme-stats.onrender.com/manas_rai?v=1&theme=dark" alt="CodeChef Stats" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 <table>
   <tr>
