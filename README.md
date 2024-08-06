@@ -11,7 +11,7 @@
 - 📫 **Connect with me**: [LinkedIn](https://www.linkedin.com/in/manas-rai2003/) | Email: [manas.offc2003@gmail.com](mailto:manas.offc2003@gmail.com)
 
 ### 🏆 Achievements
-  - TCS Codevita: 29, 43
+  - TCS Codevita 2024: Global Rank 29, 43
   - ICPC Regionalist 2023
   - Meta Hacker Cup 2023
 - **LeetCode**: Guardian Badge
