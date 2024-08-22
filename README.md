@@ -51,7 +51,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manas-0407&repo=Code-On-Cloud&theme=highcontrast)](https://github.com/manas-0407/Code-On-Cloud)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manas-0407&repo=TechHunt&theme=nightowl)](https://github.com/manas-0407/TechHunt)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manas-0407&repo=MMIL_Recruitment&theme=nightowl)](https://github.com/manas-0407/MMIL_Recruitment)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manas-0407&repo=SpringCommand-CLI&theme=nightowl)](https://github.com/manas-0407/SpringCommand-CLI)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manas-0407&repo=CoC_Server&theme=highcontrast)](https://github.com/manas-0407/CoC_Server)
 
 # Statistics:
